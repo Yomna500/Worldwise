@@ -12,19 +12,12 @@ import City from "./components/City";
 import Form from "./components/Form";
 import SpinnerFullPage from "./components/SpinnerFullPage";
 
-// import Product from "./pages/Product";
-// import Pricing from "./pages/Pricing";
-// import Homepage from "./pages/Homepage";
-// import AppLayout from "./pages/AppLayout";
-// import Login from "./pages/Login";
-// import PageNotfound from "./pages/PageNotfound";
-
 const Homepage = lazy(() => import("./pages/Homepage"));
 const Product = lazy(() => import("./pages/Product"));
 const Pricing = lazy(() => import("./pages/Pricing"));
 const AppLayout = lazy(() => import("./pages/AppLayout"));
 const Login = lazy(() => import("./pages/Login"));
-const PageNotfound = lazy(() => import("./pages/PageNotfound"));
+const PageNotfound = lazy(() => import("./pages/PageNotFound"));
 
 function App() {
   return (
