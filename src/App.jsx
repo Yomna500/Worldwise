@@ -12,7 +12,7 @@ import City from "./components/City";
 import Form from "./components/Form";
 import SpinnerFullPage from "./components/SpinnerFullPage";
 
-const Homepage = lazy(() => import("./pages/Homepage"));
+const Homepage = lazy(() => import("./pages/HomePage"));
 const Product = lazy(() => import("./pages/Product"));
 const Pricing = lazy(() => import("./pages/Pricing"));
 const AppLayout = lazy(() => import("./pages/AppLayout"));
