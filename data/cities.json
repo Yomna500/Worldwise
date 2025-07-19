@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "97e1",
+      "cityName": "Dortmund",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-09-04T17:41:17.214Z",
+      "notes": "ss",
+      "position": {
+        "lat": "51.56341232867588",
+        "lng": "7.602539062500001"
+      }
+    },
+    {
+      "id": "be78",
+      "cityName": "Geisenheim",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-09-04T17:41:17.214Z",
+      "notes": "ss",
+      "position": {
+        "lat": "50.00773901463687",
+        "lng": "7.976074218750001"
+      }
+    },
+    {
+      "id": "eb27",
+      "cityName": "Lutzhorn",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-09-04T17:45:38.468Z",
+      "notes": "",
+      "position": {
+        "lat": "53.81362579235237",
+        "lng": "9.799804687500002"
+      }
+    },
+    {
+      "id": "e682",
+      "cityName": "Dutch territorial sea",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-09-04T17:45:38.468Z",
+      "notes": "",
+      "position": {
+        "lat": "52.03897658307622",
+        "lng": "4.086914062500001"
+      }
+    },
+    {
+      "id": "67b6",
+      "cityName": "La Calzada de Calatrava",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-09T19:41:22.854Z",
+      "notes": "",
+      "position": {
+        "lat": "38.66835610151506",
+        "lng": "-3.8012695312500004"
+      }
+    },
+    {
+      "id": "24cb",
+      "cityName": "Lecinena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-09T19:42:14.293Z",
+      "notes": "",
+      "position": {
+        "lat": "41.78769700539063",
+        "lng": "-0.6811523437500001"
+      }
+    }
+  ]
+}
